@@ -30,9 +30,12 @@
 
 ## Смешные картинки про программирование
 
-![Мем 1](https://www.maximonline.ru/entertainment/luchshie-shutki-i-memy-pro-ogrableniya-luvra-id6613119/)
-![Мем 2]([https://example.com/meme2.jpg](https://smart-lab.ru/uploads/2024/images/00/78/53/2024/09/12/69f8d1.png))
-![Мем 3]([https://example.com/meme3.jpg](https://img2.joyreactor.cc/pics/comment/it-юмор-geek-3985235.jpeg)https://img2.joyreactor.cc/pics/comment/it-юмор-geek-3985235.jpeg)
+<img width="570" height="821" alt="image" src="https://github.com/user-attachments/assets/ee52cb86-eed2-45dc-849e-dd2ed80f9d21" />
+
+<img width="811" height="571" alt="image" src="https://github.com/user-attachments/assets/85585758-f041-42db-8cfa-e079687140a9" />
+
+<img width="1284" height="1160" alt="image" src="https://github.com/user-attachments/assets/07121b35-df6e-4139-a8de-dca0c987a9a5" />
+
 
 ## Полезные ссылки
 
